@@ -1,0 +1,29 @@
+.widget{
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 0px 20px;
+    background-color: coral;
+}
+
+.widgetTitle{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 0px;
+}
+
+.widgetInfo{
+    text-align: center;
+    font-weight: lighter;
+}
+
+.widgetHr{
+    border-color: black;
+    border-radius: 10px;
+}
+
+.widgetImage{
+    display: block;
+    margin: 0 auto;
+    width: 80px;
+    margin-top: 10px;
+}
